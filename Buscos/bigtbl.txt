@@ -1,3 +1,0 @@
-kmer	spp1	spp2	spp3
-AAAA	10	20	0
-AAAC	20	30	15

@@ -1,3 +1,0 @@
-kmer	count
-AAAA	10
-CCCC	5
